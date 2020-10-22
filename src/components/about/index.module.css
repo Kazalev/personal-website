@@ -1,0 +1,47 @@
+.about {
+    margin-left: 17rem;
+    padding: 60px 60px 0 60px;
+}
+
+.text {
+    color: #607D89;
+    font-size: 1em;
+}
+
+.subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Saira Extra Condensed', serif;
+    font-size: 1.35rem;
+    padding-bottom: 40px;
+}
+
+.info p {
+    text-align: left;
+}
+
+.socialIcons { 
+    display: flex;
+    list-style-type: none;
+}
+
+.socialIcons a {
+    color: #495057;
+    font-size: 46px;
+    margin-right: 20px;
+}
+
+.socialIcons a:hover {
+    color: black;
+    animation: spin-animation 0.7s;
+    display: inline-block;
+}
+  
+@keyframes spin-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(359deg);
+    }
+}
