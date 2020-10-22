@@ -1,3 +1,8 @@
+.footer {
+    margin-left: 17rem;
+    border: 2px solid red;
+}
+
 p {
     font-size: 16px;
     text-align: center;

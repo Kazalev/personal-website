@@ -14,6 +14,34 @@
     border: 10px solid #8097a1
 }
 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+ul li {
+    padding: 7px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
 .a {
-    padding: 135px 0 0 0;
+    padding: 125px 0 20px 0;
+}
+
+a {
+    color: #afb5b1;
+}
+
+a:hover {
+    color: #afbec4;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
 }
