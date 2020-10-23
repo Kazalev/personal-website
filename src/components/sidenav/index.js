@@ -9,7 +9,7 @@ const Sidenav = () => {
             <a className={styles.a}>
                 <Image src="../../me.jpg" height="200" width="170" rounded className={styles.border} />
             </a>
-            <ul>
+            <ul className={styles.navList}>
                 <li>
                     <a href="#">About</a>
                 </li>

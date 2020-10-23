@@ -1,0 +1,42 @@
+.education {
+    margin-left: 17rem;
+    padding: 0px 60px 0 60px;
+}
+
+.education h2 {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+.years {
+    float: right;
+    margin-top: -60px;
+}
+
+.courses {
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.courses p {
+    text-align: left;
+    padding-right: 10px;
+}
+
+.courses p a {
+    text-decoration: none;
+    color: #6C6A6F;
+}
+
+.courses p a:hover{
+    color: #9A97A3;
+}
+
+.icon {
+    color: gold;
+}
+
+ul {
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
