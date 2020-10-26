@@ -4,6 +4,7 @@ import Education from './components/education';
 import Experience from './components/experience';
 import Footer from './components/footer';
 import Sidenav from './components/sidenav';
+import Skills from './components/skills';
 import './Home.css';
 
 const Home = () => {
@@ -15,6 +16,8 @@ const Home = () => {
       <Education />
       <hr />
       <Experience />
+      <hr />
+      <Skills />
       <hr />
       <Footer />
     </div>
