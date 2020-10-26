@@ -66,7 +66,7 @@ const Education = () => {
                         Internet applications
                     </li>
                     <li>
-                        Аdministration of local and internet networks
+                        Administration of local and internet networks
                     </li>
                 </ul>
             </div>

@@ -1,0 +1,13 @@
+.experience {
+    margin-left: 17rem;
+    padding: 0px 60px 0 60px;
+}
+
+.experience h2 {
+    text-transform: uppercase;
+}
+
+.years {
+    float: right;
+    margin-top: -60px;
+}
