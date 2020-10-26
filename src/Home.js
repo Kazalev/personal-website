@@ -1,6 +1,7 @@
 import React from 'react';
 import About from './components/about';
 import Education from './components/education';
+import Experience from './components/experience';
 import Footer from './components/footer';
 import Sidenav from './components/sidenav';
 import './Home.css';
@@ -12,6 +13,8 @@ const Home = () => {
       <About />
       <hr />
       <Education />
+      <hr />
+      <Experience />
       <hr />
       <Footer />
     </div>
