@@ -6,7 +6,7 @@ import { faFacebook, faGithub, faInstagram, faLinkedin } from "@fortawesome/free
 const About = () => {
     return (
         <section className={style.about} id="about">
-            <h1>Kristian <span className={style.text}>Kazalev</span></h1>
+            <h1>Kristian<span className={style.text}>Kazalev</span></h1>
             <div className={style.subheading}>Sofia, Bulgaria · <a href="mailto:kristian.kazalev@gmail.com">kristian.kazalev@gmail.com</a>
             </div>
             <div className={style.info}>

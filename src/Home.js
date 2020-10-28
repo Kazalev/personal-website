@@ -11,15 +11,17 @@ const Home = () => {
   return (
     <div className="page">
       <Sidenav />
-      <About />
-      <hr />
-      <Education />
-      <hr />
-      <Experience />
-      <hr />
-      <Skills />
-      <hr />
-      <Footer />
+      <div className="main">
+        <About />
+        <hr />
+        <Education />
+        <hr />
+        <Experience />
+        <hr />
+        <Skills />
+        <hr />
+        <Footer />
+      </div>
     </div>
   );
 }
